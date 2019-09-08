@@ -8,4 +8,4 @@ def about(request):
 
 
 def hello():
-    pass
+    print('hello')
