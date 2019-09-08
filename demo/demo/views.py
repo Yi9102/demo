@@ -7,5 +7,3 @@ def about(request):
     return HttpResponse('<h1 style="color:red;">这是一个关于about的文件</h1>')
 
 
-def hello():
-    print('hello')
